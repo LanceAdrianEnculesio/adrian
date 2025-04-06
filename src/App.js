@@ -218,24 +218,7 @@ function App() {
         </div>
       </section>
 
-      <footer>
-      <div> </div> className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
-      <div className="text-center">
-        <h3 className="text-lg font-semibold mb-2">Email</h3>
-        <p className="text-light-pink">charlgoddess07@gmail.com</p>
-      </div>
-      <div className="text-center">
-        <h3 className="text-lg font-semibold mb-2">Contact Number</h3>
-        <p className="text-light-pink">+63 458078299</p>
-      </div>
-      <div></div> className="text-center"
-        <h3> className="text-lg font-semibold mb-2"Location</h3>
-        <p> className="text-light-pink"Iloilo City, Philippines</p>
-      </div>
-        <p>&copy; 2025 Lance Adrian Enculesio. All rights reserved.</p>
-
-      </footer>
+     
 
       <Modal 
         isOpen={isModalOpen}
